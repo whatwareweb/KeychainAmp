@@ -17,3 +17,6 @@ Then followed the routing of all the wires, which required some repositioning of
 <img width="1066" height="660" alt="image" src="https://github.com/user-attachments/assets/0c4e6dec-0f28-4782-8dd9-077ae1b34d37" />
 
 and we're done!
+
+here's the 3d view:
+<img width="1182" height="804" alt="image" src="https://github.com/user-attachments/assets/9f308379-fd16-45c2-9554-ec3a823bf293" />
