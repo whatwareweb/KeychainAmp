@@ -1,4 +1,7 @@
 # KeychainAmp
+
+<img width="1182" height="804" alt="image" src="https://github.com/user-attachments/assets/9f308379-fd16-45c2-9554-ec3a823bf293" />
+
 Audio amplifier on a keychain based on lm326
 
 For more details, see [journal.md](journal.md)!
